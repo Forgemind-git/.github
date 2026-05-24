@@ -15,8 +15,8 @@ Forgemind builds automation and communication tooling for education and training
 
 ## Get in touch
 
-- 🌐 Website — _add your link_
-- ✉️ Email — _add your contact_
+- 🌐 Website — [forgemind.in](https://forgemind.in)
+- ✉️ Email — [contact@forgemind.in](mailto:contact@forgemind.in)
 
 ---
 
