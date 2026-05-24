@@ -17,6 +17,8 @@ Messaging at scale — templated WhatsApp campaigns with per-recipient engagemen
 Workflow automation — flows that filter, route, and schedule data without manual glue work.
 Data & dashboard tooling — pipelines that pull, verify, and reconcile data across platforms, surfaced in clear visual dashboards.
 
+Beyond our service work, we've also started building workflows and software released under a sustainable-use license — tools others can pick up to start automating their own businesses. It's our way of giving back to the community and helping every business begin adapting toward AI and automation.
+
 ## Get in touch
 
 - 🌐 Website — [forgemind.in](https://forgemind.in)
