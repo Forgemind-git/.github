@@ -10,9 +10,9 @@ We're primarily a service business — we design, build, and run these systems f
 
 Rather than relying on existing paid SaaS tools, we build agents around a defined set of tasks — and from there, an entire foundation and system on top of it that a business can own outright.
 
-## What we're working on
+## Beyond our service work
 
-Beyond our service work, we've also started building workflows and software released under a sustainable-use license — tools others can pick up to start automating their own businesses. It's our way of giving back to the community and helping every business begin adapting toward AI and automation.
+we've also started building workflows and software released under a sustainable-use license — tools others can pick up to start automating their own businesses. It's our way of giving back to the community and helping every business begin adapting toward AI and automation.
 
 ## Get in touch
 
