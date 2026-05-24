@@ -13,9 +13,9 @@ Rather than relying on existing paid SaaS tools, we build agents around a define
 What we're working on
 
 ## What we're working on
-Messaging at scale — templated WhatsApp campaigns with per-recipient engagement tracking, so we know what actually lands.
-Workflow automation — flows that filter, route, and schedule data without manual glue work.
-Data & dashboard tooling — pipelines that pull, verify, and reconcile data across platforms, surfaced in clear visual dashboards.
+- Messaging at scale — templated WhatsApp campaigns with per-recipient engagement tracking, so we know what actually lands.
+- Workflow automation — flows that filter, route, and schedule data without manual glue work.
+- Data & dashboard tooling — pipelines that pull, verify, and reconcile data across platforms, surfaced in clear visual dashboards.
 
 Beyond our service work, we've also started building workflows and software released under a sustainable-use license — tools others can pick up to start automating their own businesses. It's our way of giving back to the community and helping every business begin adapting toward AI and automation.
 
@@ -23,7 +23,3 @@ Beyond our service work, we've also started building workflows and software rele
 
 - 🌐 Website — [forgemind.in](https://forgemind.in)
 - ✉️ Email — [contact@forgemind.in](mailto:contact@forgemind.in)
-
----
-
-<sub>Building tools that do the repetitive work, so people can focus on the teaching.</sub>
