@@ -18,3 +18,4 @@ we've also started building workflows and software released under a sustainable-
 
 - 🌐 Website — [forgemind.in](https://forgemind.in)
 - ✉️ Email — [contact@forgemind.in](mailto:contact@forgemind.in)
+- 💬 WhatsApp community — [join here](https://chat.whatsapp.com/CKa8QSOWBF0EfRnp6EaliK)
